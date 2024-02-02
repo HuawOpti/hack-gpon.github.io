@@ -27,6 +27,7 @@ parent: Huawei
 ## Software Version
 
 - V5R02C0C10S165
+- V5R022C00S200 - user:telecomadmin password:TBD, cannot save/download device config to file
 
 ## List of partitions
 
